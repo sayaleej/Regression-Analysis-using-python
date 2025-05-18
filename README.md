@@ -3,7 +3,8 @@
 This project conducts an in-depth statistical analysis of student performance data, focusing on modeling Grade Point Average (GPA) using Ordinary Least Squares (OLS) regression. The analysis includes comprehensive diagnostic tests to validate the regression model and ensure its reliability.
 
 📁 Repository Contents
-Data_294P_Code.ipynb: Jupyter Notebook containing the Python code for data preprocessing, exploratory data analysis (EDA), regression modeling, and diagnostic testing.
+
+Data_Analysis.ipynb: Jupyter Notebook containing the Python code for data preprocessing, exploratory data analysis (EDA), regression modeling, and diagnostic testing.
 
 Student_performance_data_.csv: The dataset used for analysis, containing various features related to student performance.
 
@@ -12,6 +13,7 @@ Student Performance Project.pdf: A detailed report summarizing the methodology, 
 README.md: This file, providing an overview of the project.
 
 📈 Analysis Overview
+
 The primary objective of this project is to model students' GPA based on various predictors and assess the validity of the model through several statistical tests:
 
 OLS Regression: Establishes the relationship between GPA and independent variables.
@@ -29,6 +31,7 @@ Skewness and Kurtosis: Measures the asymmetry and peakedness of the residual dis
 Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC): Provides metrics for model selection, balancing model fit and complexity.
 
 🛠️ Getting Started
+
 To replicate the analysis:
 
 Clone the Repository:
@@ -49,6 +52,7 @@ Run the Notebook:
 Open Data_294P_Code.ipynb in Jupyter Notebook or any compatible environment to explore the analysis.
 
 📄 Dataset Description
+
 The dataset Student_performance_data_.csv includes various features that may influence student GPA. While specific variable descriptions are not provided, typical features in such datasets may include:
 
 Demographic Information: Age, gender, ethnicity.
@@ -62,6 +66,7 @@ Behavioral Aspects: Participation in extracurricular activities, disciplinary re
 Note: For precise variable definitions, please refer to the dataset or accompanying documentation.
 
 📊 Key Findings
+
 Significant Predictors: Certain variables showed a strong correlation with GPA, indicating their potential impact on academic performance.
 
 Model Validity: Diagnostic tests confirmed the reliability of the regression model, with residuals displaying normal distribution and no significant autocorrelation.
