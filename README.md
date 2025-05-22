@@ -8,7 +8,7 @@ Data_Analysis.ipynb: Jupyter Notebook containing the Python code for data prepro
 
 Student_performance_data_.csv: The dataset used for analysis, containing various features related to student performance.
 
-Project Report.pdf: A detailed report summarizing the methodology, analysis, results, and conclusions drawn from the study.
+Regression_Analysis_Report.pdf: A detailed report summarizing the methodology, analysis, results, and conclusions drawn from the study.
 
 README.md: This file, providing an overview of the project.
 
